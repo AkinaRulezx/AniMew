@@ -1,4 +1,4 @@
-![AniMew](https://i.imgur.com/batFiKD.png)
+<img src="https://i.imgur.com/batFiKD.png" alt="AniMew" width="280">
 
 Desktop app for browsing anime and manga, keeping a watch list, and picking up where you left off.
 
